@@ -7,6 +7,10 @@
     "starter"
   ],
   "main": "src/index.js",
+  "engines": {
+    "node": "15.x"
+	"npm": "7.x"
+  }
   "dependencies": {
     "prop-types": "15.7.2",
     "react": "17.0.2",
